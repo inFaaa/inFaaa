@@ -6,5 +6,5 @@ I‘m a first-year master student at Digital Media Research Center of Peking Uni
 - :battery: Actively seeking for either Ph.D. or industrial opportunities starting from 2023 Fall. Please feel free to email me if you are interested.
 - 📫 How to reach me: vhjf305@gmail.com
 - :satellite: Looking for Student Exchange Program or Placement
-- :alarm_clock: NeurIPS 2021, 5.26
+- :alarm_clock: AAAI 2021
 -  ✨ Serve as a writer for [Beijing Academy of Artificial Intelligence(BAAI)](https://www.baai.ac.cn/)
